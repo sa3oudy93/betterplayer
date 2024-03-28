@@ -22,7 +22,7 @@ dependencies:
       url: https://github.com/sa3oudy93/wakelock.git
       path: wakelock
   meta: ^1.7.0
-  flutter_widget_from_html_core: ^0.8.5+3
+  flutter_widget_from_html_core: ^0.14.11
   visibility_detector: ^0.3.3
   path_provider: ^2.0.10
   collection: ^1.16.0
